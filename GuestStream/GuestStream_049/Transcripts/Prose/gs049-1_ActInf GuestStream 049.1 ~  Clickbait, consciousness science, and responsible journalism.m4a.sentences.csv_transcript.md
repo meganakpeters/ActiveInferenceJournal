@@ -26,7 +26,7 @@ And so this is a captivating, and it's a stimulating kind of crazy question.
 It's a really huge question.
 It borders on the religious and spiritual in many ways.
 It borders on the cutting edge of physics in many ways.
-And so the study of this question and the field of consciousness science more generally, it's really straddling the border between the natural sciences and philosophy and spirituality in a way that a lot of other domains maybe don't need to do.
+And so the study of this question, and the field of consciousness science more generally, it's really straddling the border between the natural sciences and philosophy and spirituality in a way that a lot of other domains maybe don't need to do.
 And so, as a result, this field of consciousness science, it really captures the hearts and minds and sometimes pretty wild imaginations of all sorts of folks, as I said, from psychologists and biologists and neuroscientists all the way to computer scientists and engineers to religious and spiritual leaders.
 Basically anybody who wonders about our origins or place in the universe, why that we know that we are here, why there is something that it is like to be us.
 They are the people who are interested in this question, and that's probably a lot of people who are listening and watching right now.
@@ -40,76 +40,74 @@ Or does it transcend beyond scientific inquiry?
 Do consciousness scientists do something that can be characterized really as science?
 Or maybe they're studying something that's a little bit more on the border, like, I don't know, telepathy or panpsychism, like maybe rocks and trees are also conscious.
 Wouldn't that be crazy?
-Or maybe the vibrations of brain the mean that the universe is conscious.
+Or maybe the vibrations of the universe mean that the universe is conscious.
 So it kind of quickly starts to feel a little fuzzy, a little less scientific.
 And that's what I want to talk about today, is that perception and how that is kind of exacerbated by the way that this field is portrayed in the media and maybe what we can do about it.
 
-And so all this means that consciousness science is really difficult, not just to do scientifically, and it is really difficult, I promise you, but it's also really difficult from a social perspective.
+And so all this means that consciousness science is really difficult, not just to do scientifically -- and it is really difficult, I promise you -- but it's also really difficult from a social perspective.
 So more than for some other fields, those of us who do consciousness science and who study this scientifically, we have a really crucial and difficult responsibility, which is to accurately and precisely communicate the state of our field and its methods and its discoveries and how it relates to other fields, from physics to medicine and beyond.
 And it's in fact, so difficult that our field has actually written a number of papers about just how difficult it is.
-So this is a fairly recent paper from [?] colleagues, including many others.
+So this is a fairly recent paper from Matthias Michel and a number of colleagues, including some big names in the field and including many others.
 This is just from a few years ago.
 And these papers, and this one in particular, really highlight why our field in specific has kind of an uphill battle compared to a lot of other areas of study, especially when it comes to potential misrepresentation in the media.
 So I thought that maybe in order to drive this point home, I could actually give you some examples of how consciousness science has been misrepresented in the media so that we can get a handle on this, we can see it concretely.
-And as I'm giving you some of these examples, I want you to try to imagine how it would sound if the same kinds of statements, the same kind of sweeping claims were made about discoveries in biology or chemistry, neuroscience, climate science, engineering, that kind of thing.
+And as I'm giving you some of these examples, I want you to try to imagine how it would sound if the same kinds of statements, the same kind of sweeping claims, were made about discoveries in biology or chemistry, neuroscience, climate science, engineering, that kind of thing.
 All right, let's do some examples.
 
 Here is the first one.
 Okay, this is an example which is actually 13 years old at this point.
 As I think you'll see, maybe it hasn't gotten so much better over the past 13 years.
-But in this example, the title "Sizing of Consciousness by its bits", we have Christoph Koch, who is an expert on consciousness science at Caltech, being quoted as saying, "I love his ideas.
-It's the only real promising fundamental theory".
-And here [?], deciding to present just this one scientist's opinion as fact without challenging it at all, without presenting any other opinions at all, I'll point out that this opinion was actually not representative of the consensus in the field at that time.
+But in this example, the title "Sizing of Consciousness by its bits", we have Christof Koch, who is an expert on consciousness science at Caltech, being quoted as saying, "I love his ideas.
+It's the only real promising fundamental theory of consciousness".
+And here we have a journalist deciding to present just this one scientist's opinion as fact without challenging it at all, without presenting any other opinions at all, I'll point out that this opinion was actually not representative of the consensus in the field at that time.
 It was this one scientist's point of view, and it's not actually representative of the consensus in the field now either.
-And so I want you to take this quote, but I want you to replace consciousness with curing cancer.
-So this opinion presented as fact is akin to writing that one scientist theory about a cure for cancer is the only really promising fundamental theory for curing cancer.
-And without presenting any other possibilities that maybe more work needs to be done or more experiments need to be run.
-This is really hyperbolic.
+And so I want you to take this quote, but I want you to replace "consciousness" with "curing cancer".
+So this opinion presented as fact is akin to writing that one scientist's theory about a cure for cancer is the only really promising fundamental theory for curing cancer.
+And without presenting any other possibilities that maybe more work needs to be done or more experiments need to be run, this is really hyperbolic.
 And it seems like maybe this kind of hyperbole would be hopefully at least a little less likely to happen in biomedicine, or at least would receive more pushback if it were presented this way.
 
 So here's another example, and this one's a bit more recent.
 So this one's from 2018.
-[?]
-Okay, so the electrical activity that moves across neurons is sought by some scientists to contribute to human consciousness.
+The title is, "Sedate a plant, and it seems to lose consciousness. Is it conscious?"
+And there is a quote here from the article,
+Okay, so "The electrical activity that moves across neurons is thought by some scientists to contribute to human consciousness."
 This is like a perfectly reasonable statement, right?
 Like totally fine, totally legit.
-But then the the journalist goes on to say, if electrical activity is being disrupted by anesthetic and plants too, causing them to lose consciousness, does that mean in some way that they are conscious?
+But then the the journalist goes on to say, "If electrical activity is being disrupted by anesthetic and plants too, causing them to lose consciousness, does that mean in some way that they are conscious?"
 Okay, so first of all, these statements are pretty vague.
 That's not really super surprising from a popular science piece.
-And it's not really the primary problem here, saying that electricity that moves across neurons is thought to from [?] disruption of electrical activity to [?] plants being conscious.
+And it's not really the primary problem here, saying that electricity that moves across neurons is thought to contribute in some way to consciousness isn't the problem, that's something many neuroscientists might like to agree with. But it's kind of an astonishing leap from disruption of electrical activity to plants being conscious.
 And this is pretty sensational, kind of to the extreme.
-And it makes this fuzzy border between consciousness science and pseudoscience, which is this border that we are trying so hard to delete all the time.
+And it makes this fuzzy border between consciousness science and pseudoscience, which is this border that we are trying so hard to delineate all the time.
 It makes it even fuzzier.
 It gives us an even harder problem to fight against as consciousness.
 And this isn't just happening 13 years ago, five years ago, it's still happening. 
-It's still why we're talking.
+It's why we're still talking about this.
 Just last month, there was this project which was held in conjunction with the association for the Association Scientific Study of Consciousness annual meeting, which was in New York City.
-And at this public event, Christophe Koch, who you can see here on the right, and Dave Chalmers here's on the left, they presented their 25 year old bet about whether the neural correlates of consciousness, the ones that go up and down with consciousness goes up and down, would be found [?] 25 years later.
+And at this public event, Christof Koch, who you can see here on the right, and Dave Chalmers here's on the left, they presented their 25 year old bet about whether the neural correlates of consciousness, the ones that go up and down with consciousness goes up and down, would be found by this time, 25 years later.
 And during this public event, some new results were unveiled for the very first time from one of the ongoing projects, which was designed to challenge two of the many theories about how consciousness arises in the brain.
 And those two theories are called the global neuronal workspace theory and the integrated information theory.
 And the hot off the press results that were shown in this event, they actually ended up challenging both theories.
 They showed that the neural correlates of consciousness are still unknown, that neither theory was really strongly supported by the data that were collected, and so on.
-But that's not the story.
-That's not exciting.
-And so that's not the story that the press told.
+But that's not the story -- that's not exciting -- and so that's not the story that the press told.
 
 And so here is what the media actually said.
 Okay, so first we're going to start with Nature.
 Nature, the journalism side of this flagship scientific journal.
-You'd hope that they would be pretty careful about their scientific journalism, but instead they write taglines like this, like "Christophe Wagered Dave, 25 years ago that researchers would learn how the brain achieves consciousness by now, but the quest continues".
+You'd hope that they would be pretty careful about their scientific journalism, but instead they write taglines like this, like "Christof wagered Dave, 25 years ago that researchers would learn how the brain achieves consciousness by now, but the quest continues".
 But this is actually not what the bet was about.
 The bet was about the neural correlates, not the causal mechanisms, not the generative production of consciousness.
-And remember as good are not the same thing. Correlation is not causation. 
+And remember as good scientists we know that correlation and causation are not the same thing. Correlation is not causation. 
 And there's always a relevant XKCD [comic].
 And so I direct you to this one here, but it gets worse.
-So here's what Science had to say.
+So here's what Science -- Science! -- had to say.
 "Advocates of the losing idea are not conceding yet."
 So again, neither idea lost, remember?
 Or rather both of them lost.
 Neither one of them won.
 Nobody lost.
 Nobody won.
-And so why would science say that one of them lost or is even losing?
+And so why would Science say that one of them lost or is even losing?
 That seems a little over the top.
 And so it kind of makes you wonder, are they like trying to drive clicks?
 Or what is the point here of sensationalizing quite to this degree?
@@ -119,35 +117,35 @@ It seems like oversimplification that actually changes the meaning of what was p
 So here's another example.
 This is from The Economist.
 This article largely reported on a different event that was actually part of the ASSC primary meeting.
-But it still capitalized on the buzz that this public event, this evening event created.
+But it still capitalized on the buzz that this public event, this evening event, created.
 And it opens with this really kind of terrible twist of the actual experimental design.
-So The Economist article says "top of the bill was the announcement of the result of a so called adversarial collaboration between proponents of two hypotheses about the nature of consciousness."
+So The Economist article says, "Top of the bill was the announcement of the result of a so called adversarial collaboration between proponents of two hypotheses about the nature of consciousness."
 Again, not what the bet was about.
 It wasn't about the nature of consciousness.
-But anyway, "this involved running a series of experiments begun in 2020 to determine which, if either of them is correct."
+But anyway, "this involved running a series of experiments, begun in 2020, to determine which (if either) of them is correct."
 But again, that's not what the collaboration was designed to do, right?
 In science, you can never prove anything.
 You can never show you're correct.
 You can only show that you are not wrong or that you are wrong.
 That's it.
 That's what you get in science.
-Okay?
+Okay.
 
-So moreover, all of these articles, the three that I've shown you and a number of others, they also contained essentially no discussion of whether these two theories global Neuronal Workspace Theory and Integrated Information Theory, one of which was losing, apparently, whether they were the only ones worth considering.
+So moreover, all of these articles, the three that I've shown you and a number of others, they also contained essentially no discussion of whether these two theories -- Global Neuronal Workspace Theory and Integrated Information Theory, one of which was losing, apparently -- whether they were the only ones worth considering.
 So the articles didn't really discuss anything else, any other possible theories.
-In fact, the articles called these two theories leading by the media.
+In fact, the articles called these two theories "leading" by the media.
 But the truth is that they're leading only in number of publications, not in amount of scientific evidence supporting them.
 They just have a lot of publications out there.
 There's no discussion in these articles beyond a trivial passing mention that there are any other theories out there at all.
-And especially that whether they are viable or not, whether they're empirically supported.
+And especially whether they are viable or not, whether they're empirically supported.
 
 So here's some [showing image on slide].
 This isn't all of the empirically supported theories of consciousness out there.
 There's a really nice article here by Anil Seth and Tim Bain that came out last year that discusses a bunch of these.
 And there's a really nice article here by this group also saying they actually looked at the empirical support for different theories of consciousness.
 How many papers are out there that actually challenge versus support each theory?
-And so this landscape is the one that should be the one to evaluate all of the results that were presented at this event.
-In it means that even if one of the two theories that this one project was looking at, if one of them didn't make the cut, that doesn't mean the other one wins, and is right.
+And so this landscape is the one that should be the one to evaluate all of the results that were presented at this event in.
+It means that even if one of the two theories that this one project was looking at, if one of them didn't make the cut, that doesn't mean the other one wins, and is right.
 It just means that one of them maybe lost.
 And it didn't even lose, remember?
 
@@ -156,7 +154,7 @@ For all you Mad Max fans out there, I love old school Sci-Fi.
 And the idea here is that two theories enter and one theory leaves.
 One theory survives, but it doesn't win because there's another round coming.
 And so all of these nuances, they were just unfortunately missing from all the news coverage.
-And I understand that news likes to get people to read it and it likes to be sensational, but the missing aspect of the missing nuance really changes the meaning of what was presented.
+And I understand that news likes to get people to read it and it likes to be sensational, but the missing aspects, the missing nuance really changes the meaning of what was presented.
 And that's actually a really big problem here.
 And why is this such a problem, you might ask?
 I'm getting myself all worked up here, right?
@@ -172,7 +170,7 @@ You might as well be talking about doing research on telepathy.
 Is this really a colleague that you want?
 
 So here's another example.
-What if you're on a grant review committee or you're reviewing a paper and you just read these articles in Science and in Nature that heavily imply that there are only two real theories of consciousness that have any empirical support.
+What if you're on a grant review committee or you're reviewing a paper and you just read these articles in Science and in Nature that heavily imply that there are only two "real" theories of consciousness that have any empirical support.
 But the paper or grant that you're reviewing is not targeting either one of these theories.
 So now maybe you see the problem here.
 These journalism articles, they're not just infuriating.
@@ -180,8 +178,8 @@ They're really actively damaging the legitimacy of our field.
 They're cutting us off at the knees in the eyes of our peers in terms of the financial support we can compete for from granting agencies, in terms of where we can publish our science.
 And by the way, that science is state of the art and cutting edge.
 
-We have a responsibility, though, as people who are doing this state of the art consciousness science to try to work with the media so that the reporting can be more honest, so we can continue working there as well.
-This is a two way street in some ways, but we also hope that folks who are listening right now will recognize this pattern the next time you read an article about consciousness science that maybe those sensationalized claims are not exactly a reflection of the state of art in the field.
+We have a responsibility, though, as people who are doing this state of the art consciousness science to try to work with the media so that the reporting can be more honest, so we can continue working there as well. This is a two way street in some ways. 
+But we also hope that folks who are listening right now will recognize this pattern the next time you read an article about consciousness science that maybe those sensationalized claims are not exactly a reflection of the state of art in the field.
 Because here is the truth.
 This is real consciousness science, modern consciousness science.
 It's a collection of basically every single state of the art discipline and method of scientific inquiry that you can think of. [showing image of "cognitive sciences", "computational neuroscience", and "compter science/AI/ML" in overlapping Venn diagram].
@@ -200,13 +198,12 @@ I have job security.
 If people don't take me seriously when I say I'm a consciousness scientist, that's their loss, that's fine.
 But the younger people, the trainees in the field, those who are trying to get jobs, those who are trying to push the envelope of what we know about our brains and our minds and our awareness of ourselves in this world, they've got a lot of misperceptions to overcome.
 
-So if you are excited and you want to know more about the modern, exciting field of consciousness Science, I suggest that you head to the ASSC website.
+So if you are excited and you want to know more about the modern, exciting field of consciousness science, I suggest that you head to the ASSC website.
 You can have a look at the whole science program.
 They've actually posted videos of the keynotes from this year, so that's pretty cool.
 You can go and see some of those.
 You can also check out the plan for the future.
-And of course, if I've inspired you even a little bit to find out about consciousness science yourself.
-Despite my kind of rant here, I say welcome.
+And of course, if I've inspired you even a little bit to find out about consciousness science yourself, -- despite my kind of rant here -- I say welcome.
 Please come join us.
 There's a lot of people doing some really cool stuff, really amazing, mind blowing stuff, working to figure this out.
 So please come join us.
@@ -215,7 +212,7 @@ And so I think I will stop there and just say if you've enjoyed this talk or any
 It's about 800 words, so not a long homework assignment.
 You can go and check that out.
 So I think I'll stop and pass the mic back to Daniel.
-And also welcome Nora Bradford, who is a doctoral student here at UC Irvine, who works in Consciousness Science, but who also is an accomplished science journalist who's written articles in Scientific American, Science News, Discover, and many more.
+And also welcome Nora Bradford, who is a doctoral student here at UC Irvine, who works in consciousness science, but who also is an accomplished science journalist who's written articles in Scientific American, Science News, Discover, and many more.
 So thanks very much.
 
 19:44 _Daniel:_
@@ -374,8 +371,7 @@ So it's something that integrates across disciplines, kind of even cast the disc
 And I think it is one of these... It's like an itch that some can't scratch with this inscrutable and ineffable nature that does verge into the mystical.
 So what do we do with the huge mystery... that makes it a training and exhibition field...
 Again, that's not just important, but is kind of the archetype of how do you have a multidecade conversation with potentially non-compatible theorizing?
-W
-hereas in many of the physical sciences, including physical or reductionist perspectives on neuroscience, threads open and close, little bit quicker, little bit easier, tend to not delve into ancient history, tend to not need to invoke world knowledge traditions.
+Whereas in many of the physical sciences, including physical or reductionist perspectives on neuroscience, threads open and close, little bit quicker, little bit easier, tend to not delve into ancient history, tend to not need to invoke world knowledge traditions.
 So that makes it fun.
 It makes it fun and useful.
 And if something's fun and useful, what secret third thing are we looking?
@@ -417,20 +413,20 @@ So we're not even going insects.
 We're going, other arguably incredibly intelligent beings that can open jars and be sneaky and do all sorts of cool stuff. And that have complex social interactions, and are basically aliens.
 This is my professional scientific opinion here, but they basically are, right?
 Like, they're so fundamentally, physically different from us.
-And so any consciousness ometer that we develop for us or that applies in monkeys or even in dogs or cats is not really going to apply there.
+And so any consciousness-o-meter that we develop for us or that applies in monkeys or even in dogs or cats is not really going to apply there.
 And so differentiating tests for intelligence, from tests from inner experience is a really difficult problem.
 
 And then there's the third problem, which is a test for whether we attribute consciousness to an agent, which, if you saw the movie Ex Machina, is the Garland test.
-So that's do never mind whether it actually has consciousness, do I attribute consciousness to it?
+So that's do -- never mind whether it actually has consciousness -- do I attribute consciousness to it?
 Because that is going to change how we interact with it and the rights that we ascribe to it and so on.
 And so I think we're well past the point at which we need to get a better handle on this.
 Some of the stuff that I'm working on right now is moving in this direction.
 Not just me and a huge group of lots of other people.
-And I think Joshua Bengio gave testimony to [USA] Congress, like today, about the need for increased regulatory oversight of who has access to so called artificial intelligence models so that we can better understand how their implementation and their interaction with humans might exacerbate biases or cause all sorts of other problems.
+And I think Yoshua Bengio gave testimony to [USA] Congress, like today, about the need for increased regulatory oversight of who has access to so called artificial intelligence models so that we can better understand how their implementation and their interaction with humans might exacerbate biases or cause all sorts of other problems.
 So you can actually go and read his testimony that he gave.
 I don't remember where the link is, go find it.
 But he had a summary and then he linked to the testimony.
-And I think that having folks like Joshua and other giants in the field speaking out about the need for actually tackling this, and this isn't just a philosopher's playground to talk about consciousness.
+And I think that having folks like Yoshua and other giants in the field speaking out about the need for actually tackling this, and this isn't just a philosopher's playground to talk about consciousness.
 This is, as you said, the testing bed for where the rest of science is going.
 And it's also very topical right now.
 
@@ -503,7 +499,7 @@ So that's what I would add, that can add to the conversation.
 It would make me feel a little bad about calling out the pieces that I did in the presentation and the piece of writing that I did too.
 But at the same time, they put this in writing, and this is wrong.
 I don't like making people upset and I don't like making people angry.
-But it's out there in the world, and it's not a million eyeballs, and that's a problem.
+But it's out there in the world, and it's got a million eyeballs, and that's a problem.
 And so we're hoping your viewership is about a million, right, Daniel?
 So give or take low millions.
 
